@@ -1,0 +1,14 @@
+
+.courseTxt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.courseBox{
+    box-shadow: 0px 0px 28px 16px rgb(0 0 0 / 5%);
+}
+.row{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
